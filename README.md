@@ -8,3 +8,6 @@ My data science and analytics projects
 3. R programming
 4. Dashboard
 5. Linear Regregression Model using caret
+
+## Contact Me
+reach out to me at work.choonnahakarn@gmail.com
